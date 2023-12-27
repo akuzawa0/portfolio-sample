@@ -14,7 +14,7 @@ ul,li{
 }
 
 a{
-  
+  text-decoration: none;
 }
 
 .header{
@@ -31,6 +31,12 @@ a{
     margin-bottom: 10px;
     color: #ffe600;
   }
+}
+
+.profile{
+  .header>h1{
+    color: #69ff13;
+  }  
 }
 
   .gnav{
