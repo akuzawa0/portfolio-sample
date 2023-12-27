@@ -39,6 +39,12 @@ a{
   }  
 }
 
+.work{
+  .header>h1{
+    color: #ff0000;
+  }
+}
+
   .gnav{
     width: 100%;
     height: auto;
